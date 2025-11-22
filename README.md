@@ -68,6 +68,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Svbtle](https://svbtle.com/) - Blogging platform designed to help you think.
 - [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator.
 - [Laravel CommonMark Blog](https://github.com/spekulatius/laravel-commonmark-blog) - Static-generator to use with Laravel. Utilizes CommonMark and FrontMatter and publishes directly into the `public`-folder.
+- [markdown-pages.js](https://github.com/dandalpiaz/markdown-pages.js/) - Client-side rendering of a Markdown website
 
 ## Libraries
 
@@ -194,10 +195,12 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 
 - [gitpitch](https://github.com/gitpitch/gitpitch/) - Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs. ![Globe][globe]
 - [hacker-slides](https://github.com/msoedov/hacker-slides) - Minimal UI for building presentation slides from markdown. ![Mac OS X][macosx] ![Linux][linux]
+- [markdeep-slides](https://github.com/doersino/markdeep-slides) - Browser-side rendering of Markdown as slide deck ![Globe][globe]
 - [Marp](https://marp.app/) - Markdown presentation ecosystem. :gem: _CLI, Web, IDE plugin and more to convert Markdown into various formats_ ![Mac OS][macosx] ![Linux][linux] ![Windows][windows]
 - [mdp](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem: _Like PowerPoint and Vim but with Markdown!_ ![Mac OS X][macosx] ![Linux][linux]
 - [remark](https://remarkjs.com) - A simple, in-browser, Markdown-driven slideshow tool targeted at people who know their way around HTML and CSS. ![Globe][globe]
 - [reveal.js](https://revealjs.com) - Open source HTML presentation framework with Markdown support ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [roboslides](https://github.com/evidlo/roboslides) - Browser-side rendering of Markdown as slide deck ![Globe][globe]
 
 ## Services
 
